@@ -10,6 +10,7 @@
     <div class="grid-container">
         <aside>
             <a href="student.php">Student</a>
+            <a href="staff.php">Staff</a>
         </aside>
         <main></main>
     </div>
